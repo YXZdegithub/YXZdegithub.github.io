@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-11-21T02:51:41.810Z</updated>
+  <updated>2021-11-21T02:57:40.000Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,19 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>我的第一篇文章</title>
+    <title>发文实验</title>
     <link href="http://example.com/2021/11/17/%E5%8F%91%E6%96%87%E5%AE%9E%E9%AA%8C/"/>
     <id>http://example.com/2021/11/17/%E5%8F%91%E6%96%87%E5%AE%9E%E9%AA%8C/</id>
     <published>2021-11-17T03:35:59.000Z</published>
-    <updated>2021-11-21T02:51:41.810Z</updated>
+    <updated>2021-11-21T02:57:40.000Z</updated>
     
-    <content type="html"><![CDATA[<p>我试了一下直接改文件名看网页中文章名是否会改变<br>答案：</p>]]></content>
+    <content type="html"><![CDATA[<p>我试了一下直接改文件名看网页中文章名是否会改变<br>答案：只会改变内容，但标题不改，估计要更改文件内的title<br>更新：2021.11.21title（我的第一篇博客➡发文实验）<br>hexo 官方的基本操作</p><h2 id="标签插件"><a href="#标签插件" class="headerlink" title="标签插件"></a>标签插件</h2><blockquote><p>Do not just seek haappiness for yourself. Seek happiness for all. Through kindness. Through mercy.</p><footer><strong>David Levithan，Wide Awake</strong></footer></blockquote><h2 id="代码块"><a href="#代码块" class="headerlink" title="代码块"></a>代码块</h2><figure class="highlight isbl"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="title">alert</span>(<span class="string">&#x27;Hello World!&#x27;</span>);</span></span><br></pre></td></tr></table></figure><h2 id="反引号代码块"><a href="#反引号代码块" class="headerlink" title="反引号代码块"></a>反引号代码块</h2><figure class="highlight gams"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta"><span class="meta-keyword">$hexo</span> clean &amp;&amp; hexo g &amp;&amp;hexo d</span></span><br></pre></td></tr></table></figure><h2 id="插入一个网址试试"><a href="#插入一个网址试试" class="headerlink" title="插入一个网址试试"></a>插入一个网址试试</h2><p>这是一个网址<a href="www.bilibili.com">网址</a></p><p>下面来尝试一些markdown的语法</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;我试了一下直接改文件名看网页中文章名是否会改变&lt;br&gt;答案：&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;p&gt;我试了一下直接改文件名看网页中文章名是否会改变&lt;br&gt;答案：只会改变内容，但标题不改，估计要更改文件内的title&lt;br&gt;更新：2021.11.21title（我的第一篇博客➡发文实验）&lt;br&gt;hexo 官方的基本操作&lt;/p&gt;
+&lt;h2 id=&quot;标签插件&quot;&gt;&lt;a href=&quot;</summary>
       
     
     
